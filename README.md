@@ -69,6 +69,9 @@ The diagrams are displayed with The [Mermaid framework](https://mermaid-js.githu
 [Live Demo, Web interface](https://prawinn555.github.io/reactdemo/?menu=Movies/Movies)
 
 
+<img src="https://camo.githubusercontent.com/3b6184a71fe2bd7924bfdcf1ae4a7c1d06a4639f05593309453f3e636e756c99/68747470733a2f2f7765626173736574732e6d6f6e676f64622e636f6d2f5f636f6d5f6173736574732f636d732f4d6f6e676f44425f4c6f676f5f46756c6c436f6c6f72426c61636b5f5247422d347464337975787a6a732e706e67"
+     alt="icon"
+     width="200" />
 
 
 
