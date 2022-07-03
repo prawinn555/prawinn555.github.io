@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 
-Linkedin profile : https://www.linkedin.com/in/prawee-sriplakich-47611613b/
+[Linkedin profile](https://www.linkedin.com/in/prawee-sriplakich-47611613b/) 
 
 ### My code examples for Demo / Dojo
 
