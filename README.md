@@ -46,3 +46,15 @@ The diagrams are displayed with The [Mermaid framework](https://mermaid-js.githu
 
 [code](https://github.com/prawinn555/reactdemo/)
 
+#### MongoDB, NodeJS, integration with ReactJS, and serverless architecture 
+
+
+[Code& wiki](https://github.com/prawinn555/MongoDBMoviesDemo)
+
+[Live Demo, Web interface](https://prawinn555.github.io/reactdemo/?menu=Movies/Movies)
+
+
+
+
+
+
