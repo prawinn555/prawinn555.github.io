@@ -7,7 +7,7 @@
 
 #### Basic tutorials (nodejs, reactjs, angular, docker)
 
-https://github.com/prawinn555/basictuto
+[code](https://github.com/prawinn555/basictuto)
 
 
 
@@ -15,5 +15,5 @@ https://github.com/prawinn555/basictuto
 
 [Live demo](https://prawinn555.github.io/reactdemo/)
 
-Code https://github.com/prawinn555/reactdemo/
+[code](https://github.com/prawinn555/reactdemo/)
 
