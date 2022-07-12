@@ -1,24 +1,28 @@
-## Welcome to My GitHub Pages
+[[_TOC_]]
+
+# Welcome to My GitHub Pages
 
 [Linkedin profile](https://www.linkedin.com/in/prawee-sriplakich-47611613b/) 
 To know me and keep in touch ;)
 
-[Github profile](https://github.com/prawinn555
+[Github profile](https://github.com/prawinn555)
 
 
 
-### My code examples for Demo / Dojo
+# My code examples for Demo / Dojo
 
 
-#### Basic tutorials (nodejs, reactjs, angular, docker)
+# Basic tutorials (nodejs, reactjs, angular, docker)
 
 [Code of all tutorials - root directory](https://github.com/prawinn555/basictuto)
 
-[Live demo of Angular](https://prawinn555.github.io/basictuto/angularfeatures/)
+[Live demo of Angular / basic concepts](https://prawinn555.github.io/basictuto/angularfeatures/)
 
 Compiled and published to Github pages.
 
-[Live demo of ReactJS](https://prawinn555.github.io/basictuto/reactsample/)
+[Live demo of ReactJS / basic concepts](https://prawinn555.github.io/basictuto/reactsample/)
+
+[Live demo of VueJS / basic concepts](https://prawinn555.github.io/basictuto/vuejs/)
 
 <img src="https://user-images.githubusercontent.com/50048285/174787948-e72a0e10-fe0a-4ecd-a67e-6f2ac5d2f7fa.png"
      alt="icon"
@@ -32,17 +36,19 @@ Compiled and published to Github pages.
 <img src="https://user-images.githubusercontent.com/50048285/174788373-42e16bbf-4348-46f6-ada2-43bca3855511.png"
      alt="icon"
      width="200" />
+<img src="https://prawinn555.github.io/basictuto/vuejs/assets/logo.da9b9095.svg"
+     alt="icon VueJS"
+     width="200" />
 
 
-
-#### React demo - search & REST API call
+# React demo - search & REST API call
 
 [Live demo](https://prawinn555.github.io/reactdemo-search/)
 
 [Source code](https://github.com/prawinn555/reactdemo-search)
 
 
-#### React demo - `My diagram` application.
+# React demo - `My diagram` application.
 
 This applicaton allows you to search, create, and modify diagrams in a database (temporary DB in Demo version).
 
@@ -55,13 +61,19 @@ The diagrams are displayed with The [Mermaid framework](https://mermaid-js.githu
 
 
 
-#### React demo - dynamic form
+# React demo - dynamic form
 
-[Live demo](https://prawinn555.github.io/reactdemo/)
+[Live demo / movie search with MongoDB](https://prawinn555.github.io/reactdemo/?menu=Movies/Movies)
+
+[Live demo - using dynamic form](https://prawinn555.github.io/reactdemo/)
+
+A dynamic form is a configurable form that you can specify form types and form instances
+(just class / objects in OOP).
+
 
 [code](https://github.com/prawinn555/reactdemo/)
 
-#### MongoDB, NodeJS, integration with ReactJS, and serverless architecture 
+# MongoDB, NodeJS, integration with ReactJS, and serverless architecture 
 
 
 [Code& wiki](https://github.com/prawinn555/MongoDBMoviesDemo)
