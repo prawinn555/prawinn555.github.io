@@ -1,4 +1,3 @@
-[[_TOC_]]
 
 # Welcome to My GitHub Pages
 
