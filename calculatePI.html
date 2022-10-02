@@ -3,7 +3,7 @@
     PI :  <div id="piValue" 
                style="word-wrap:break-word; font-family: monospace" ></div> <br>
   
-  <input type="button" onclick="stop()" >Stop</input>
+  <input type="button" onclick="stop()" > Stop </input>
   
   <script>
   
@@ -25,19 +25,19 @@
 
 // Demo
 let iter = generateDigitsOfPi();
-let stop = false;
+let stopFlag = false;
 let output = document.querySelector("#piValue");
 (function displayTenNextDigits() {
     let digits = "";
     for (let i = 0; i < 10; i++) digits += iter.next().value;
     output.insertAdjacentHTML("beforeend", digits);
     scrollTo(0, document.body.scrollHeight);
-    if(!stop) {
+    if(!stopFlag) {
       requestAnimationFrame(displayTenNextDigits);
     }
 })();
     
-function stop() { stop=true; }
+function stop() { stopFlag=true; }
     
   </script>
   
